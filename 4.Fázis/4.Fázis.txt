@@ -1,0 +1,1 @@
+4. fázisként hozzáadtam a bejelentkezési felületet és az ehhez szükséges adatbázis funkciókat. 

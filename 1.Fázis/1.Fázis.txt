@@ -1,0 +1,1 @@
+Az első fázisban létrehoztuk a Főoldalt, illetve a menüsávot és a többi szükséges alapot a weboldalhoz.

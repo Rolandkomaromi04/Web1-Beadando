@@ -1,0 +1,1 @@
+A 3. fázisban elkezdtem elkészíteni az egész regisztrációs felületet, és a megfelelő adatbázis létrehizását és a csatlakozást.

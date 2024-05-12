@@ -1,0 +1,1 @@
+Az 5. és utolsó fázisban megoldottuk a ki és bejelentkezés dinamukisan változó folyamatát a Főoldalon. Ezzel elkészült a weboldalunk. Illetve hozzá adtuk a videókat.
